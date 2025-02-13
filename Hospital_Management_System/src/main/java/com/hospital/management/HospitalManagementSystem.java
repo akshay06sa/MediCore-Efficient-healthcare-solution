@@ -10,11 +10,14 @@ import java.util.Scanner;
 
 public class HospitalManagementSystem {
 
-	private static final String url = ""; 
+//	jdbc:mysql://localhost:3306/hospital
+	private static final String url = "jdbc:mysql://localhost:3306/hospital"; 
 	
-	private static final String username = ""; 
+//	root
+	private static final String username = "root"; 
 	
-	private static final String password = ""; 
+//	Akshay@132231
+	private static final String password = "Akshay@132231"; 
 	
 	private static boolean showMenu = true;
 	
